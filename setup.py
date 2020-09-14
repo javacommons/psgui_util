@@ -18,7 +18,7 @@ setup(
     license='MIT',
     keywords='development',
     packages=[
-        "commonthread",
+        "psgui_util",
     ],
     install_requires=["PySimpleGUI>=4.29.0"],
     classifiers=[
